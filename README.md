@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning how to use GitHub and SFDocs
+- 🌱 I’m currently learning how to use GitHub and SFDocs.
 -->
